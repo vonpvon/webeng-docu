@@ -1,0 +1,31 @@
+/* custom section */
+#about .col-lg-4 p {
+  color: #000000;
+  /* Black color */
+}
+
+#about .page-section-heading {
+  color: #000000;
+  /* Black color */
+}
+
+
+.bg-custom-white {
+  background-color: #fff;
+  /* Green shade */
+}
+
+
+.bg-custom-F3CA52 {
+  background-color: #F3CA52;
+  /* Green shade */
+}
+
+.bg-custom-7ABA78 {
+  background-color: #7ABA78;
+  /* Green shade */
+}
+.text-7ABA78  {
+  --bs-text-opacity: 1;
+  color: #7ABA78;
+}
